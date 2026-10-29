@@ -52,11 +52,10 @@ return [
   /* Optional; omitted rather than rendered blank. */
   'enquiries_email' => '',
 
-  /* PLACEHOLDER — nobody has supplied M&T's switchboard. This is the same
-     dummy number the other academies started with. It must be replaced before
-     anyone is told the site is finished, or a learner will dial it. */
-  'phone'         => '012 345 6789',
-  'phone_href'    => '0123456789',
+  /* Kgomotso's cellphone, on her instruction of 29 Oct 2026: she takes the
+     academy's calls herself. The same number is on every academy. */
+  'phone'         => '+27 81 015 5135',
+  'phone_href'    => '+27810155135',
   'office_hours'  => 'Monday–Friday, 08:00–17:00 SAST',
 
   /* PLACEHOLDER examples in the registration form. M&T's real employee
